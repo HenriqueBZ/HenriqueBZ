@@ -20,5 +20,5 @@ Olá, eu sou Henrique B. Zanini
 
 - Tweeter @HenriqueBZanini
 - GitHub @HenriqueBZ
-- LinkedIn @henrique-zanini
+- LinkedIn henrique-zanini
 - Email hiquebzanini@gmail.com
